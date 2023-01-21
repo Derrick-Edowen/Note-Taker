@@ -28,7 +28,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 In order to run this  application, the user must install the required node packages. This is done by typing npm install in the terminal.
 
 ## Usage
-
+Deployed  Application URL: https://quiet-shore-46614.herokuapp.com/
 ## Credits
 N/A
 
